@@ -4,7 +4,7 @@ this is just an attempt to enter
 
 ~ ❯❯❯ sudo apt-get update && sudo apt-get install nmap
 
-~ ❯❯❯ git clone https://github.com/k4m4/kickthemout.git
+~ ❯❯❯ git clone https://github.com/jarujang/WiFi00.git
 
 ~ ❯❯❯ cd kickthemout/
 
