@@ -6,7 +6,7 @@ this is just an attempt to enter
 
 ~ ❯❯❯ git clone https://github.com/jarujang/WiFi00.git
 
-~ ❯❯❯ cd kickthemout/
+~ ❯❯❯ cd WiFi/
 
 ~/kickthemout ❯❯❯ sudo -H pip3 install -r requirements.txt
 
